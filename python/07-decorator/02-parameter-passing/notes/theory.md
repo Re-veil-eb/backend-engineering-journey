@@ -1,4 +1,4 @@
-# `08-decorators-passing-arguments.md`
+# `decorators-passing-arguments.md`
 
 > **Learning level:** Intermediate → Senior
 > **Prerequisites:** Functions, `*args`, `**kwargs`, LEGB, nested functions, higher-order functions, closures, decorator fundamentals
